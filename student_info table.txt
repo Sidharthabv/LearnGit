@@ -1,0 +1,10 @@
++-----------------+--------------+------+-----+---------+-------+
+| Field           | Type         | Null | Key | Default | Extra |
++-----------------+--------------+------+-----+---------+-------+
+| Student_ID      | int          | NO   | PRI | NULL    |       |
+| First_Name      | varchar(100) | NO   |     | NULL    |       |
+| Last_name       | varchar(50)  | NO   |     | NULL    |       |
+| City            | char(50)     | YES  |     | NULL    |       |
+| Age             | int unsigned | YES  |     | NULL    |       |
+| Date_of_joining | date         | NO   |     | NULL    |       |
++-----------------+--------------+------+-----+---------+-------+
